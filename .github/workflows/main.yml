@@ -1,4 +1,4 @@
-name: Postgres Service Example
+name: Star Launch Test
 
 on:
   watch:
